@@ -1,6 +1,8 @@
 # WarnIndia
 WarnIndia is an India-specific app to provide citizens information on earthquake, cyclone and tsunami and to issue early alerts/warnings in case there is danger
 
+Play Store link: https://play.google.com/store/apps/details?id=com.ssrij.warnindia
+
 ## Requirements
 * 7.1.1 (Nougat) SDK platform
 * Android smartphone running at least 4.0.3 (Ice Cream Sandwich)
